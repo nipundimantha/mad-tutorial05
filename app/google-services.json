@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "150795066824",
+    "firebase_url": "https://testapplicationfirebase-cbf27.firebaseio.com",
+    "project_id": "testapplicationfirebase-cbf27",
+    "storage_bucket": "testapplicationfirebase-cbf27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150795066824:android:0e3ce9e7d2036aba45f4fd",
+        "android_client_info": {
+          "package_name": "com.madlab5.testapplicationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150795066824-77rs7fle871r1u50nh65mrn2hambfmed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiQqqt5CXIGhIqtCz-HmcOhgSiT3GEYRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150795066824-77rs7fle871r1u50nh65mrn2hambfmed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
